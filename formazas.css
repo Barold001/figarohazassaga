@@ -1,0 +1,55 @@
+body{
+    background-color: #ffccaa;
+    font-family: Tahoma;
+    font-size: 14px;
+}
+
+a{
+    color: #A04000;
+}
+
+.mihaly{
+    width: 150px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: left;
+}
+
+h1{
+    color: #A04000;
+}
+
+.elso{
+    text-align: justify;
+    font-weight: bold;
+    
+}
+
+.figaro{
+    width: 195px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: right;
+}
+
+.masodik{
+    text-align: justify;
+}
+
+.kozepso{
+    text-align: center;
+}
+
+.jobb{
+    text-align: right;
+    font-style: italic;
+    vertical-align: bottom;
+}
+
+.table{
+    width: 100%;
+}
